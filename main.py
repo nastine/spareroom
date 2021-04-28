@@ -33,8 +33,8 @@ def save(results):
 
 
 if __name__ == '__main__':
-    email = "katya@junehomes.com"
-    password = "junehomes123"
+    email = input('Введите логин: ')
+    password = input('Введите пароль: ')
     max_price = '500'
     location = 'Brooklyn, Brooklyn, NY'
 
